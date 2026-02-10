@@ -1,9 +1,9 @@
-# 🔄 Employee Turnover Analysis - Análise de Rotatividade de Funcionários
+# 🔄 Análise de Rotatividade de Funcionários
 
-Este projeto tem como objetivo analisar os fatores associados à rotatividade de funcionários
-(turnover) a partir de uma base de dados de Recursos Humanos. A análise explora variáveis
-demográficas, organizacionais e comportamentais, buscando identificar padrões relacionados
-à saída de funcionários da empresa e gerar insights que apoiem decisões de gestão de pessoas.
+Este projeto tem como objetivo analisar os fatores associados à **rotatividade de funcionários**
+(turnover) a partir de uma base de dados de Recursos Humanos. A análise explora variáveis 
+organizacionais e comportamentais, buscando identificar padrões relacionados
+à saída de funcionários da empresa e gerar insights que apoiem **decisões estratégicas de gestão de pessoas**.
 
 ## 🔍 Perguntas Centrais da Análise
 
@@ -17,6 +17,7 @@ demográficas, organizacionais e comportamentais, buscando identificar padrões 
 - Remuneração e Reconhecimento
 - Qualidade de Vida e Carga de Trabalho
 - Satisfação e Desempenho
+---
 
 ## ⚙️ Tecnologias e Ferramentas
 
@@ -29,15 +30,18 @@ demográficas, organizacionais e comportamentais, buscando identificar padrões 
 
 ## 💡 Principais Insights
 
-- Funcionários com longos períodos sem promoção apresentam maior taxa de desligamento.
-- Menores faixas salariais concentram maiores índices de rotatividade.
-- A realização frequente de horas extras está associada a taxas de desligamento significativamente maiores.
-- A frequência de viagens impacta mais a rotatividade do que a distância até o trabalho.
-- Baixos níveis de satisfação (e-sat) estão fortemente relacionados à saída da empresa.
+- Funcionários com longos períodos sem promoção apresentam taxas mais elevadas de desligamento.
+- As menores faixas salariais concentram os maiores índices de rotatividade.
+- A realização frequente de horas extras está associada a um aumento significativo na taxa de desligamento.
+- Baixos níveis de satisfação dos funcionários (e-sat) estão fortemente relacionados à saída da empresa.
 ---
 
-### Observações
+## Observação
 
-A base de dados utilizada é fictícia e destinada exclusivamente a 
+> A base de dados utilizada é fictícia e destinada exclusivamente a 
 fins educacionais e de demonstração de habilidades em análise de dados.
+---
+
+## Autora
+Ana Júlia Vieira Lima
 
