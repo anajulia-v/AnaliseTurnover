@@ -1,9 +1,8 @@
 # 🔄 Análise de Rotatividade de Funcionários
 
 Este projeto tem como objetivo analisar os fatores associados à **rotatividade de funcionários**
-(turnover) a partir de uma base de dados de Recursos Humanos. A análise explora variáveis 
-organizacionais e comportamentais, buscando identificar padrões relacionados
-à saída de funcionários da empresa e gerar insights que apoiem **decisões estratégicas de gestão de pessoas**.
+(turnover) a partir de uma base de dados de Recursos Humanos. A análise possui caráter exploratório e explicativo, 
+com foco na identificação de padrões relacionados ao desligamento de funcionários, a fim de gerar insights que apoiem **decisões estratégicas de gestão de pessoas**.
 
 ## 🔍 Perguntas Centrais da Análise
 
