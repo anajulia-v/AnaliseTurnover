@@ -13,9 +13,11 @@ com foco na identificação de padrões relacionados ao desligamento de funcion�
 
 - Tempo e Progressão de Carreira
 - Liderança e Gestão
+- Perfil Profissional
 - Remuneração e Reconhecimento
 - Qualidade de Vida e Carga de Trabalho
 - Satisfação e Desempenho
+- Características Demográficas
 ---
 
 ## ⚙️ Tecnologias e Ferramentas
@@ -29,9 +31,9 @@ com foco na identificação de padrões relacionados ao desligamento de funcion�
 
 ## 💡 Principais Insights
 
-- Funcionários com longos períodos sem promoção apresentam taxas mais elevadas de desligamento.
 - As menores faixas salariais concentram os maiores índices de rotatividade.
 - A realização frequente de horas extras está associada a um aumento significativo na taxa de desligamento.
+- Funcionários que viajam frequentemente apresentam taxa de desligamento aproximadamente três vezes maior do que os que não viajam.
 - Baixos níveis de satisfação dos funcionários (e-sat) estão fortemente relacionados à saída da empresa.
 ---
 
