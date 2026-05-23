@@ -37,6 +37,17 @@ com foco na identificação de padrões relacionados ao desligamento de funcion�
 - Baixos níveis de satisfação dos funcionários (e-sat) estão fortemente relacionados à saída da empresa.
 ---
 
+## 📈 Exemplos de Análises
+
+<div>
+  <img src="assets/taxa_salario.png" width="45%"/>
+  <img src="assets/taxa_horas.png" width="45%"/>
+  <img src="assets/taxa_esat.png" width="45%"/>
+  <img src="assets/taxa_viagens.png" width="45%"/>
+</div>
+
+---
+
 ## Observação
 
 > A base de dados utilizada é fictícia e destinada exclusivamente a 
